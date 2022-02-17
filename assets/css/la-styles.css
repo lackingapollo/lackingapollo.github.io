@@ -56,11 +56,20 @@ main.page-content.fullwidth {
     max-width: 100%;
 }
 
+div.glass-box {
+    background-color: #92ccff63;
+    padding: 2%;
+    border-radius: 30px;
+    border: aliceblue 1px solid;
+    backdrop-filter: blur(7px);
+}
+
 a.hero-button {
-    background-color: #9c279c;
+    background-color: #9c279cad;
+    border: solid 1px aliceblue;
     border-radius: 30px;
     padding: 1%;
     color: #eee;
     display: inline-block;
-    margin-top:  2%;
+    margin-top: 2%;
 }
