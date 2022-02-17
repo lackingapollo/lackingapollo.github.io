@@ -1,4 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Dawning+of+a+New+Day&family=Space+Mono:wght@400;700&display=swap');
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Dawning of a New Day', cursive;
+}
+
+h1 { font-size: 60pt; }
+h2, h2.post-list-heading { font-size: 50pt; }
+h2.footer-heading { font-size: 30pt; }
+h3 { font-size: 40pt; }
+h4,h5,h6 { font-size: 30pt; }
+
+p, span, a, b, em, strong, i, div, main, header, footer {
+    font-family: 'Space Mono', monospace;
+}
+
 img.logo {
     max-width: 50%;
     margin-bottom: 1em;
+}
+
+div.hero-image {
+    color: #ddd;
+    width: 100% !important;
+    height: 100% !important;
+    position: relative;
+    margin-bottom: 2%;
+}
+
+div.hero-image-overlay {
+    padding: 20%;
+    z-index: 10;
+    position: relative;
+}
+
+div.hero-image-bg {
+    width: 100% !important;
+    height: 100% !important;
+    min-height: 100% !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-size: cover;
+    z-index: 0;
+}
+
+main.page-content.fullwidth {
+    padding-top: 0 !important;
+}
+
+.wrapper {
+    max-width: calc(1600px - (30px * 2)); 
+}
+
+.fullwidth-wrapper {
+    max-width: 100%;
+}
+
+a.hero-button {
+    background-color: #9c279c;
+    border-radius: 30px;
+    padding: 1%;
+    color: #eee;
+    display: inline-block;
+    margin-top:  2%;
 }
