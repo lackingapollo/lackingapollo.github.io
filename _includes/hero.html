@@ -1,0 +1,8 @@
+<div class="hero-image">
+  <div class="hero-image-overlay" style="background-color: {{ include.overlay | default: "rgba(0,0,0,0)" }};" >
+    <{{ include.heading_level | default: "h2" }}>{{ include.title }}</{{ include.heading_level | default: "h2" }}>
+    <p>{{ include.body }}</p>
+    <div class="hero-image-bg" style="background-image: url({{ include.image }});" >
+    </div>
+  </div>
+</div>
