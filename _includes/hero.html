@@ -1,11 +1,17 @@
 <div class="hero-image">
   <div class="hero-image-overlay" style="background-color: {{ include.overlay | default: "rgba(0,0,0,0)" }};" >
+    {%- if include.style == "glass" -%}
+    <div class="glass-box">
+    {%- endif -%}
     <{{ include.heading_level | default: "h2" }}>{{ include.title }}</{{ include.heading_level | default: "h2" }}>
     <p>{{ include.body }}</p>
     {%- if include.button1 -%}
     <a href="{{ include.button1_link }}" class="hero-button">{{ include.button1 }}</a>
     {%- endif -%}
     </div>
+    {%- if include.style == "glass" -%}
+    </div>
+    {%- endif -%}
     <div class="hero-image-bg" style="background-image: url({{ include.image }});" >
   </div>
 </div>
