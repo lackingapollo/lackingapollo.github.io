@@ -23,7 +23,7 @@ Love an item but not sure it will fit? Reach out [april@lackingapollo.com](mailt
 ### 100% Satisfaction Guarantee
 We want you to be 100% satisfied with your purchase. If you don't like an item's fit, or look you can return it in 30 days and get the cost of the item back. We also warranty your purchase for 3 months, if a stitch fails, it gets snagged on something, whatever may happen, we're happy to fix it for you, for no cost. 
 
-Please note that refunds may exclude shipping, this depends on the reason for your return. If an item is returned due to damage or manufacturing defects, we will refund your full purchase price.
+Please note that refunds may exclude shipping, this depends on the reason for your return. If an item is returned due to damage or manufacturing defects, we will refund your full purchase price. We cannot accept returns or refunds for intimate items for hygiene & healh reasons.
 
 Just contact us at [april@lackingapollo.com](mailto:april@lackingapollo.com) if you have a return or warranty issue.
 
