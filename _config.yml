@@ -24,8 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Lacking Apollo is a handmade clothing brand that makes fashionable fairly-priced plus-size clothing that you'll love the look & feel of.
 baseurl: ""
 url: "https://www.lackingapollo.com/" # the base hostname & protocol for your site, e.g. http://example.com
-instagram_page: lackingapollollc
-facebook_page: lackingapollollc
+instagram_username: lackingapollollc
+facebook_username: lackingapollollc
+tiktok_username: lackingapollo10
 etsy_shop: lackingapollova
 
 # Build settings

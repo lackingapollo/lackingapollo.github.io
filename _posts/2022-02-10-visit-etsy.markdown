@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Visit Us On Etsy!"
+title:  "Etsy Shop Live!"
 date:   2022-02-10 21:52:15 -0500
 categories: Shop
 ---
