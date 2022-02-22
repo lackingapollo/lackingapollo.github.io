@@ -48,6 +48,13 @@ div.hero-image-overlay {
     position: relative;
 }
 
+@media (max-width: 1024px) {
+    div.hero-image-overlay {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}
+
 div.hero-image-bg {
     width: 100% !important;
     height: 100% !important;
