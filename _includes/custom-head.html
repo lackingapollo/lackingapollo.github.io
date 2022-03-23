@@ -20,7 +20,9 @@ pintrk('page');
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 <script>
-  jQuery("#mc_embed_signup form").submit(function(evt) {
-    pintrk('track', 'signup');
-  })
+  jQuery(document).ready(function() {
+    jQuery("#mc_embed_signup form").submit(function(evt) {
+      pintrk('track', 'signup');
+    })
+  });
 </script>
