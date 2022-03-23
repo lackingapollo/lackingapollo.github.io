@@ -33,13 +33,15 @@ We understand buying handmade items & clothing can be expensive. If there is an 
 
 
 ### Our Story: Authentic & Woman-Owned
-My name is April. When I was growing up my great grandmother use to sew me and my two siblings matching outfits, back then I was still plus size and she always had something to say 🙄, but you wore the clothes no matter what to make her happy.
+My name is April, and when I was growing up my great grandmother used to make clothes for me and my siblings. No matter how "unique" the clothes looked, you wore them to make her happy.
 
-Moving forward I always had trouble finding cute trendy and affordable clothes that made me feel good. I struggled with every plus size brand in some way and so fast forward to 2019 I decided to buy a sewing machine and make my own. Admittedly it was to sew masks but you know, I loved doing that so it went further. 
+I've always had trouble finding cute trendy and affordable clothes that made me feel good. I struggled with every plus size brand in some way and so fast forward to 2019 I decided to buy a sewing machine and learn to make my own. Inspired by my great grandmother's example.
 
-Now I want to share my passion and cute clothes that are made with love to fit plus size beauties. I do different ranges of sizes, custom vinyl appliques, and accessories. Follow us on Facebook or Instagram to see new items and get exclusive access to deals, unique items & promotions.
+Now I want to share my passion and cute clothes that are made with love to fit plus size beauties. I do different ranges of sizes, custom vinyl appliques, and accessories.
 
-Have any questions? I'd love to hear from you: [april@lackingapollo.com](mailto:april@lackingapollo.com).
+Follow my shop on Etsy or check me out on social media for to see my latest creations. 
+
+Have any questions or want to doa custom order? I'd love to hear from you: [april@lackingapollo.com](mailto:april@lackingapollo.com).
 
 With love & fashion!
 #### April T.
